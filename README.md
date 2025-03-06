@@ -1,1 +1,1 @@
-# palindrome-checker
+A palindrome checker webpage made with basic HTML, CSS, and Javascript for a freeCodeCamp project.

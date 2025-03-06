@@ -1,0 +1,33 @@
+body {
+    background-color: #101D42;
+    color: white;
+    font-family: Georgia;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 1.3rem;
+  }
+  
+  h2 {
+    font-size: 1rem;
+    font-weight: normal;
+  }
+  
+  .container {
+    background-color: #232ED1;
+    max-width: 40%;
+    padding: 1rem;
+    align-content: center;
+    border: 3px solid black;
+  }
+  
+  #check-btn {
+    background-color: #6564DB;
+  }
+  
+  #result {
+    margin-top: 1rem;
+  }
